@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringGitApplication {
 
     public static void main(String[] args) {
-        system.out.print("索玲玲笨蛋");
+        System.out.print("索玲玲笨蛋");
+        System.out.print("索玲玲笨蛋");
         SpringApplication.run(SpringGitApplication.class, args);
     }
 
